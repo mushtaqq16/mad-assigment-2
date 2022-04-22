@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sp20_bse_026_assgn2</string>
+    <string name="btnopen"> open</string>
+    <string name="btndlt"> delete</string>
+    <string name="unlockmsg">Welcome to 2nd activity</string>
+
+</resources>
